@@ -1,5 +1,9 @@
 package com.tiger.creational.singleton;
-
+/**
+ * 单例模式
+ * @author yinlihu
+ *
+ */
 public class Client {
 	public static void main(String[] args) {
 		LazySingleton instance = LazySingleton.getInstance();

@@ -1,5 +1,9 @@
 package com.tiger.structural.adapter;
-
+/**
+ * 适配器模式
+ * @author yinlihu
+ *
+ */
 public class Client {
 	public static void main(String[] args) {
 		USABasketballPlayer huo = new USACenter("霍华德");

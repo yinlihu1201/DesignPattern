@@ -1,5 +1,9 @@
 package com.tiger.behavior.visitor;
-
+/**
+ * 访问者模式
+ * @author yinlihu
+ *
+ */
 public class Client {
 	public static void main(String[] args) {
 		// 数据结构相对要固定，不然在Action中变化会很大
