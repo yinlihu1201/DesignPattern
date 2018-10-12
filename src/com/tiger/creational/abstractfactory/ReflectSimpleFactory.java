@@ -1,5 +1,8 @@
 package com.tiger.creational.abstractfactory;
 
+import com.tiger.creational.abstractfactory.normal.IDepartment;
+import com.tiger.creational.abstractfactory.normal.IUser;
+
 public class ReflectSimpleFactory {
 	private static final String db = "Mysql";
 	

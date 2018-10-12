@@ -1,4 +1,4 @@
-package com.tiger.creational.abstractfactory;
+package com.tiger.creational.abstractfactory.normal;
 
 public class MysqlDepartment implements IDepartment {
 

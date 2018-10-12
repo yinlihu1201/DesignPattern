@@ -1,5 +1,10 @@
 package com.tiger.creational.abstractfactory;
 
+import com.tiger.creational.abstractfactory.normal.IDepartment;
+import com.tiger.creational.abstractfactory.normal.IUser;
+import com.tiger.creational.abstractfactory.normal.MysqlDepartment;
+import com.tiger.creational.abstractfactory.normal.MysqlUser;
+
 public class SimpleFactory {
 	private static final String data = "mysql";
 	

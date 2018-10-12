@@ -1,4 +1,4 @@
-package com.tiger.creational.abstractfactory;
+package com.tiger.creational.abstractfactory.normal;
 
 public interface IUser {
 	void insert(User user);
